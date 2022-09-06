@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 1501.58251953125 1025.0841064453125" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="enable-background:new 0 0 1400 980;" width="1501.58251953125px" height="1025.0841064453125px"><defs><linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="750.791259765625" y1="0" x2="750.791259765625" y2="1025.0841064453125" gradientTransform="matrix(0.9084888947160276, 0.4179093298008488, -0.48593972555367443, 1.0563796325008583, 566.8348884093233, -371.5566594631572)">
+                <stop offset="0" style="stop-color: #ffffff"/>
+                <stop offset="1" style="stop-color: #cccccc"/>
+              </linearGradient><linearGradient id="gradient-1" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1" gradientTransform="matrix(0.8102658991318172, 0.7084906865627119, -0.5238537870872335, 0.8755551686946816, 0.6187208375213249, -0.229800430019651)">
+                <stop offset="0" style="stop-color: #c116db"/>
+                <stop offset="1" style="stop-color: #6f0d7e"/>
+              </linearGradient><linearGradient id="gradient-2" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1" gradientTransform="matrix(0.824804928177123, 0.7631855821233149, -0.5163026956940819, 1.016592660500919, 0.21257567391920285, -0.38988906992051664)">
+                <stop offset="0" style="stop-color: #be0a00"/>
+                <stop offset="1" style="stop-color: #580400"/>
+              </linearGradient><linearGradient id="gradient-3" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1">
+                <stop offset="0" style="stop-color: #930f00"/>
+                <stop offset="1" style="stop-color: #2d0400"/>
+              </linearGradient><linearGradient id="gradient-4" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1">
+                <stop offset="0" style="stop-color: #930f00"/>
+                <stop offset="1" style="stop-color: #2d0400"/>
+              </linearGradient><linearGradient id="gradient-5" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1">
+                <stop offset="0" style="stop-color: #c51400"/>
+                <stop offset="1" style="stop-color: #5f0900"/>
+              </linearGradient><linearGradient id="gradient-6" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1">
+                <stop offset="0" style="stop-color: #c51400"/>
+                <stop offset="1" style="stop-color: #5f0900"/>
+              </linearGradient><linearGradient id="gradient-7" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1" gradientTransform="matrix(0.668096843795662, -1.0043320466455117, 0.18849123123167644, 0.2284418905386758, 0.11678019441967938, 1.2626627562473531)">
+                <stop offset="0" style="stop-color: #c44539"/>
+                <stop offset="1" style="stop-color: #752922"/>
+              </linearGradient></defs><rect id="ee-background" x="0" y="0" width="1501.58251953125" height="1025.0841064453125" style="fill: url('#gradient-0'); fill-opacity: 0; pointer-events: none;"/><g transform="matrix(2.9639415740966797, 0, 0, 2.9639415740966797, 69.57710266113259, 2.858342986388493)"><path class="st0" d="M47.3,0l186.2,319.1c9.3,15.9,29.7,21.4,45.7,12.2c0,0,109-62.3,174-99.4V0H47.3z" style="fill: rgb(179, 173, 168); paint-order: fill;"/><linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="84.3585" y1="-81.9619" x2="406.7926" y2="249.9001">
+	<stop offset="0" style="stop-color:#5142DC"/>
+	<stop offset="1" style="stop-color:#A03EE8"/>
+</linearGradient><path class="st1" d="M0,0l186.2,319.1c9.3,15.9,29.7,21.4,45.7,12.2l221.3-126.5V0H0z" style="fill: url('#gradient-7'); paint-order: fill; fill-opacity: 1;" transform="matrix(1, 0, 0, 1, 0, 5.140740899634011e-8)"/><path d="M 104.22766876220703 66.00080871582031 L -117.68986511230469 21.431594848632812" style="fill: rgb(191, 182, 176); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; paint-order: fill;"/></g></svg>

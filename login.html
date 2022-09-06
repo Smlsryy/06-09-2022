@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login Page</title>
+  </head>
+  <!-- Favicon -->
+  <link href="img/download.png" rel="shortcut icon" />
+
+  <!-- icon -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
+  />
+  <!-- CSS BOOTSTRAP -->
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+    crossorigin="anonymous"
+  />
+
+  <!-- FONT -->
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins&family=Viga&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="style2.css" />
+  <body>
+    <div class="container" id="container">
+      <div class="form-container sign-up-container">
+        <form action="#">
+          <h1>Buat Akun</h1>
+
+          <input type="text" placeholder="Name" />
+          <input type="email" placeholder="Email" />
+          <input type="password" placeholder="Password" />
+          <button>Daftar</button>
+        </form>
+      </div>
+      <div class="form-container sign-in-container">
+        <form action="#">
+          <h1>Masuk</h1>
+
+          <input type="email" placeholder="Email" />
+          <input type="password" placeholder="Password" />
+          <a href="#">Lupa Kata sandi?</a>
+          <button>Masuk</button>
+        </form>
+      </div>
+      <div class="overlay-container">
+        <div class="overlay">
+          <div class="overlay-panel overlay-left">
+            <h1>Selamat Datang !</h1>
+            <p>Silahkan masukan alamat email dan kata sandi anda</p>
+            <button class="ghost" id="signIn">Masuk</button>
+          </div>
+          <div class="overlay-panel overlay-right">
+            <h1>Hai !</h1>
+            <p>Masukan data diri anda untuk membuka akun bersama kami</p>
+            <button class="ghost" id="signUp">Daftar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <a href="index.html" class="btn solid-btn">Kembali</a>
+
+    <script src="script.js" charset="utf-8"></script>
+  </body>
+</html>
